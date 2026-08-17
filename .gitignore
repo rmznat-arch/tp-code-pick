@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+.pytest_cache/
+*.pyc
+.env
+browser_profile/
+playwright-report/
+test-results/
+*.log

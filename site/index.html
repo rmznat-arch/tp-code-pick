@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="th">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Top Heroes Post Monitor</title>
+  <link rel="stylesheet" href="./styles.css" />
+</head>
+<body>
+  <main class="shell">
+    <header class="hero">
+      <div>
+        <p class="eyebrow">PUBLIC NO-LOGIN MONITOR</p>
+        <h1>Top Heroes</h1>
+        <p class="subtitle">Pinned post และโพสต์ล่าสุด 2 รายการ จากข้อมูล JSON รอบล่าสุด</p>
+      </div>
+      <button id="refresh" class="button secondary">รีเฟรช</button>
+    </header>
+    <section id="status" class="status-card" aria-live="polite">กำลังโหลดข้อมูล…</section>
+    <section id="warnings" class="warnings hidden"></section>
+    <section id="posts" class="post-grid"></section>
+    <footer>
+      <a id="source" target="_blank" rel="noreferrer">เปิดหน้า Facebook ต้นทาง</a>
+      <a href="../data/posts.json" target="_blank" rel="noreferrer">ดู JSON ดิบ</a>
+    </footer>
+  </main>
+  <script src="./app.js"></script>
+</body>
+</html>
