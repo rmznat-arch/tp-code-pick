@@ -2,8 +2,7 @@ name: Collect Top Heroes posts
 
 on:
   workflow_dispatch:
-  schedule:
-    - cron: "1 2,5,8,11,17 * * *"
+    
 
 concurrency:
   group: top-heroes-collector
