@@ -5,6 +5,7 @@ import re
 from datetime import datetime, timezone
 from pathlib import Path
 from typing import Any
+from zoneinfo import ZoneInfo
 
 from playwright.sync_api import BrowserContext, Page, sync_playwright
 
@@ -15,8 +16,15 @@ ROOT = Path(__file__).resolve().parent
 TIME_PATTERN = r"\d+\s*(?:m|min|h|d|w|mo|y)"
 
 
+BANGKOK = ZoneInfo("Asia/Bangkok")
+
+
 def now_iso() -> str:
     return datetime.now(timezone.utc).isoformat().replace("+00:00", "Z")
+
+
+def now_bangkok_iso() -> str:
+    return datetime.now(BANGKOK).isoformat(timespec="seconds")
 
 
 def close_public_popups(page: Page) -> None:
@@ -190,6 +198,7 @@ def extract_public_posts(body: str, before: str, source: dict[str, Any], max_nor
 
 
 def collect(config: dict[str, Any], headed: bool = False) -> dict[str, Any]:
+    run_started_at = now_iso()
     warnings: list[str] = []
     posts: list[ParsedPost] = []
     source = {
@@ -251,7 +260,15 @@ def collect(config: dict[str, Any], headed: bool = False) -> dict[str, Any]:
         finally:
             context.close()
             browser.close()
-    return build_payload(source, posts, warnings, now_iso())
+    completed_at = now_iso()
+    return build_payload(
+        source,
+        posts,
+        warnings,
+        completed_at,
+        run_started_at=run_started_at,
+        fetched_at_bangkok=now_bangkok_iso(),
+    )
 
 
 def run_from_config(config_path: str, headed: bool = False) -> dict[str, Any]:

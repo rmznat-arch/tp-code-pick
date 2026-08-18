@@ -31,6 +31,12 @@ def test_payload_has_source_posts_and_warnings():
         [ParsedPost(type="latest", text="hello", visible_text="hello", status="complete")],
         [],
         "2026-08-17T00:00:00Z",
+        run_started_at="2026-08-16T23:59:00Z",
+        fetched_at_bangkok="2026-08-17T07:00:00+07:00",
     )
     assert payload["runStatus"] == "success"
+    assert payload["fetchedAt"] == "2026-08-17T00:00:00Z"
+    assert payload["fetchedAtTimezone"] == "UTC"
+    assert payload["runStartedAt"] == "2026-08-16T23:59:00Z"
+    assert payload["fetchedAtBangkok"] == "2026-08-17T07:00:00+07:00"
     assert payload["posts"][0]["type"] == "latest"

@@ -34,7 +34,9 @@ const data = await response.json();
 
 ## การทำงานออนไลน์
 
-GitHub Actions รัน workflow จาก `.github/workflows/collect.yml` วันละ 4 รอบที่เวลา 02:00, 08:00, 14:00 และ 20:00 UTC ซึ่งตรงกับ 09:00, 15:00, 21:00 และ 03:00 เวลาไทย และเปิด Facebook ใหม่ทุกครั้งเพื่อดึงข้อมูล public จากนั้น commit `data/posts.json` และ snapshot ที่เปลี่ยนกลับ repository หน้า GitHub Pages ใช้ไฟล์ static `site/data/posts.json` และ `site/api/posts.json`; โปรแกรมภายนอกสามารถเรียก `/api/posts.json` ได้โดยตรงโดยไม่ต้องเปิด Python server
+GitHub Actions รัน workflow จาก `.github/workflows/collect.yml` วันละ 5 รอบที่นาที 01 ของเวลา 02:00, 05:00, 08:00, 11:00 และ 17:00 UTC ซึ่งตรงกับ 00:01, 09:01, 12:01, 15:01 และ 18:01 เวลาไทย (Asia/Bangkok, UTC+7) และเปิด Facebook ใหม่ทุกครั้งเพื่อดึงข้อมูล public จากนั้น commit `data/posts.json` และ snapshot ที่เปลี่ยนกลับ repository หน้า GitHub Pages ใช้ไฟล์ static `site/data/posts.json` และ `site/api/posts.json`; โปรแกรมภายนอกสามารถเรียก `/api/posts.json` ได้โดยตรงโดยไม่ต้องเปิด Python server
+
+เวลาใน JSON แยกเป็น `runStartedAt` และ `fetchedAt` ซึ่งเป็น UTC แบบ ISO-8601 ที่ลงท้ายด้วย `Z`; `fetchedAtBangkok` เป็นเวลา Asia/Bangkok ที่มี offset `+07:00` และใช้แสดงผลบน dashboard การกด Run workflow, เวลาเริ่มรัน และเวลาที่ดึง Facebook สำเร็จอาจต่างกันได้
 
 เปิด GitHub Pages โดยเลือก source เป็น GitHub Actions เมื่อ workflow commit JSON ใหม่ workflow `pages.yml` จะ deploy โฟลเดอร์ `site/` ไปยัง GitHub Pages อัตโนมัติ หน้าเว็บไม่ได้ดึง Facebook โดยตรง
 

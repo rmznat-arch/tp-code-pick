@@ -55,11 +55,23 @@ def sort_posts(posts: list[ParsedPost]) -> list[ParsedPost]:
     return posts
 
 
-def build_payload(source: dict[str, Any], posts: list[ParsedPost], warnings: list[str], fetched_at: str) -> dict[str, Any]:
-    return {
+def build_payload(
+    source: dict[str, Any],
+    posts: list[ParsedPost],
+    warnings: list[str],
+    fetched_at: str,
+    *,
+    run_started_at: str | None = None,
+    fetched_at_bangkok: str | None = None,
+) -> dict[str, Any]:
+    payload = {
         "source": source,
         "fetchedAt": fetched_at,
+        "fetchedAtTimezone": "UTC",
+        "runStartedAt": run_started_at,
+        "fetchedAtBangkok": fetched_at_bangkok,
         "runStatus": "success" if posts and not warnings else ("partial" if posts else "blocked"),
         "posts": [post.to_dict() for post in posts],
         "warnings": warnings,
     }
+    return payload

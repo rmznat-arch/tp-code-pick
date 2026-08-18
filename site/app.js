@@ -10,8 +10,14 @@ function escapeHtml(value) {
 }
 
 function render(data) {
-  const fetched = data.fetchedAt ? new Date(data.fetchedAt).toLocaleString() : 'ยังไม่มีข้อมูล';
-  statusEl.innerHTML = `<strong>${escapeHtml(data.runStatus || 'unknown')}</strong><span>อัปเดตล่าสุด: ${escapeHtml(fetched)}</span><span>${data.posts?.length || 0} โพสต์</span>`;
+  const fetched = data.fetchedAtBangkok
+    ? new Date(data.fetchedAtBangkok).toLocaleString('th-TH', { timeZone: 'Asia/Bangkok' })
+    : data.fetchedAt
+      ? new Date(data.fetchedAt).toLocaleString('th-TH', { timeZone: 'Asia/Bangkok' })
+      : 'ยังไม่มีข้อมูล';
+  const utc = data.fetchedAt ? new Date(data.fetchedAt).toISOString() : 'ยังไม่มีข้อมูล';
+  const started = data.runStartedAt ? new Date(data.runStartedAt).toLocaleString('th-TH', { timeZone: 'Asia/Bangkok' }) : 'ไม่ทราบ';
+  statusEl.innerHTML = `<strong>${escapeHtml(data.runStatus || 'unknown')}</strong><span>ดึงข้อมูลเสร็จ (เวลาไทย): ${escapeHtml(fetched)}</span><span>เริ่มรัน (เวลาไทย): ${escapeHtml(started)}</span><span>เวลามาตรฐาน UTC: ${escapeHtml(utc)}</span><span>${data.posts?.length || 0} โพสต์</span>`;
   sourceEl.href = data.source?.pageUrl || '#';
   if (data.warnings?.length) {
     warningsEl.classList.remove('hidden');

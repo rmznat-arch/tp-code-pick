@@ -1,0 +1,19 @@
+{
+  "source": {
+    "pageUrl": "https://www.facebook.com/people/Top-Heroes/100087790984688/",
+    "access": "public_no_login",
+    "device": "iPhone 14 Pro Max",
+    "viewport": {
+      "width": 430,
+      "height": 932
+    }
+  },
+  "fetchedAt": "2026-08-17T16:54:18.127163Z",
+  "runStatus": "blocked",
+  "posts": [],
+  "warnings": [
+    "pinned_not_found",
+    "fewer_than_two_latest_posts_found",
+    "public_post_structure_not_recognized"
+  ]
+}
