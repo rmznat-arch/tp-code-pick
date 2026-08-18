@@ -2,7 +2,8 @@ name: Collect Top Heroes posts
 
 on:
   workflow_dispatch:
-    
+  repository_dispatch: 
+    types: [run-collect]  
 
 concurrency:
   group: top-heroes-collector
