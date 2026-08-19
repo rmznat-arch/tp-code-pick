@@ -1,12 +1,6 @@
 name: Deploy Top Heroes static site
 
 on:
-  push:
-    branches: [main]
-    paths:
-      - "site/**"
-      - "data/posts.json"
-      - ".github/workflows/pages.yml"
   workflow_dispatch:
 
 permissions:
