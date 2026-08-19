@@ -39,7 +39,8 @@ function render(data) {
 async function load() {
   statusEl.textContent = 'กำลังโหลดข้อมูล…';
   try {
-    const candidates = [`/api/posts.json?ts=${Date.now()}`, `./data/posts.json?ts=${Date.now()}`];
+    const cacheBust = Date.now();
+    const candidates = [`./api/posts.json?ts=${cacheBust}`, `./data/posts.json?ts=${cacheBust}`];
     let response;
     for (const url of candidates) {
       const candidate = await fetch(url, { cache: 'no-store' });
