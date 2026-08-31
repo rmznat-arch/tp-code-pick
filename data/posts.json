@@ -8,11 +8,11 @@
       "height": 932
     }
   },
-  "fetchedAt": "2026-08-31T11:00:55.416142Z",
+  "fetchedAt": "2026-08-31T11:15:31.385589Z",
   "fetchedAtTimezone": "UTC",
-  "runStartedAt": "2026-08-31T11:00:40.826287Z",
-  "fetchedAtBangkok": "2026-08-31T18:00:55+07:00",
-  "runStatus": "partial",
+  "runStartedAt": "2026-08-31T11:15:22.407008Z",
+  "fetchedAtBangkok": "2026-08-31T18:15:31+07:00",
+  "runStatus": "success",
   "posts": [
     {
       "type": "pinned",
@@ -23,9 +23,27 @@
       "expanded": true,
       "status": "complete",
       "warnings": []
+    },
+    {
+      "type": "latest",
+      "text": "🎁 The Mysterious Check-In Journey Begins! ✨\n\nThe Mysterious Check-In Journey officially starts on\nAugust 31!\n\nLog in and check in every day to claim surprise\nRewards! 🎁\nKeep checking in to unlock even more deluxe\nRewards, including Diamonds, Legendary Universal\nShards, and Arcane Crystals!\n\n👑 Reach the final check-in Target to claim a limited\nSkin for free!\n\nSurprises await, and exciting Rewards are ready to be\nunlocked!\nStarting August 31, check in every day and don’t miss\nout! ✨\n\n=================\n🥰🥰Welcome to the Top Heroes Discord community\n\n😍😍Enjoy an additional 5% bonus on your recharge\nvia Official Gold Blocks Website",
+      "visible_text": "🎁 The Mysterious Check-In Journey Begins! ✨\n\nThe Mysterious Check-In Journey officiall... See more",
+      "published_label": null,
+      "post_url": null,
+      "expanded": true,
+      "status": "complete",
+      "warnings": []
+    },
+    {
+      "type": "latest",
+      "text": "🎙️ kingdom Gramophone | We Want to Hear Your TH\nStory\n\nIt’s hard to believe that Top Heroes has been with us\nfor three years already.\nWhen did you first join us?\nMaybe you’ve been here since the very beginning,\nor perhaps you joined by chance somewhere along\nthe way.\nMaybe you started playing just for fun,\nbut ended up meeting a group of friends to fight\nbattles, chat, and stay up late with.\n\nWe come from different countries and speak different\nlanguages.\nSometimes we stumble over our words,\nand sometimes our different habits lead to funny\n“cultural clashes.”\nBut it’s these little moments and unexpected\nencounters\nthat make our time in the game so special.\n\n🎙️ As we celebrate the 3rd Anniversary, kingdom\nGramophone wants to hear your story.\n\nIt doesn’t have to be a big or epic story.\nEven a little moment is enough—as long as it’s your\nstory, we want to hear it.\n\n🎁 Submission Rewards\n\n🌟 Warm Story Award — Unlimited Winners\nEvery selected story will receive Gold Blocks worth\n$9.99!\n\n💛 kingdom Gramophone Feature Award\nThe most touching stories will have a chance to be\nfeatured on kingdom Gramophone, along with an\nadditional reward of 49.99 Gold Blocks + 9,999\nDiamonds! 🎁\n\n📅 Event Period: Now– 11th September\n📝 How to Submit:\nClick the link below to share your TH story! Don’t\nforget to include your in-game name and server ID\nwhen submitting.\n\n🎙️ Come tell us your Top Heroes story!\n\n \n\n=================\n🥰🥰Welcome to the Top Heroes Discord community\n\n😍😍Enjoy an additional 5% bonus on your recharge\nvia Official Gold Blocks Website",
+      "visible_text": "🎙️ kingdom Gramophone | We Want to Hear Your TH\nStory\n... See more",
+      "published_label": null,
+      "post_url": null,
+      "expanded": true,
+      "status": "complete",
+      "warnings": []
     }
   ],
-  "warnings": [
-    "fewer_than_two_latest_posts_found"
-  ]
+  "warnings": []
 }
