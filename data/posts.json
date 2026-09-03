@@ -8,16 +8,26 @@
       "height": 932
     }
   },
-  "fetchedAt": "2026-09-03T08:15:45.901989Z",
+  "fetchedAt": "2026-09-03T11:00:36.496153Z",
   "fetchedAtTimezone": "UTC",
-  "runStartedAt": "2026-09-03T08:15:31.280786Z",
-  "fetchedAtBangkok": "2026-09-03T15:15:45+07:00",
-  "runStatus": "partial",
+  "runStartedAt": "2026-09-03T11:00:29.724011Z",
+  "fetchedAtBangkok": "2026-09-03T18:00:36+07:00",
+  "runStatus": "success",
   "posts": [
     {
       "type": "pinned",
       "text": "The September Top-Up Accumulation Event is\nLive!🔥\n\n🌊 Avatar Frame: Windwhale Island (30 Days) 👑\nSame as always! Spend a total of $5 to claim this\nlimited-time animated Avatar Frame and show off\nyour September glory!\n\n☁️ Decor Set: Cloudsea Voyage\nIncludes 2 Legendary + 2 Mythic items! Collect the\ncomplete set and enjoy the full decor experience.\n\n⚔️ Attribute Bonuses\nBoosts Soldier ATK and Soldier HP! Deploy Heroes\nfrom the same faction to gain even greater benefits.\n\n🎁 Ding! Your September Pack Code Has Been\nUpdated!\n\nGB2F08730EB7\n\nClaim it now! \n \n\n🎁 The Top-Up Check-In Has Also Been Updated!\n\n🥊 Boxing Master is back for a limited time!\n⚔️ Enjoy bonuses to Horde Hero ATK and March\nSize!\n\n👀 Sneak Peek!\nA brand-new surprise is coming to next week’s\nTop-Up Check-In! The choice is yours.\n\n🚀 Your September Benefits Are Ready!\nClaim great rewards from the Top-Up Accumulation\nEvent and discover more surprises through Check-In!\n=================\nWelcome to the Top Heroes Discord community\n\nEnjoy an additional 5% bonus on your recharge via\nOfficial Gold Blocks Website",
       "visible_text": "The September Top-Up Accumulation Event is\nLive!🔥\n... See more",
+      "published_label": null,
+      "post_url": null,
+      "expanded": true,
+      "status": "complete",
+      "warnings": []
+    },
+    {
+      "type": "latest",
+      "text": "🧟 If Zombies Were Coming…\n\nImagine the zombie apocalypse suddenly breaks out!\nAfter fleeing for your life, you finally discover these\nrooms that could serve as temporary shelters. 🏚️\n\nIf it were you, which room would you choose to\nsurvive in? And why? 👀\n\n🗓️ Event Period: Today – September 11\n\n🎁 Rewards: 10 lucky players will be selected to\nreceive $4.99 worth of Gold Blocks!\n\n📅 Rewards Sent: September 14\n\nHow to Participate:\n🏠 Choose the room you’d be willing to live in.\n💭 Tell us why you chose it.\n📝 When submitting your answer, please include your\nin-game name and Server ID.\n\n🧟‍♂️ The zombies are coming… Which room will you\nchoose?\nChoose wisely—you might just survive!\n=================\nWelcome to the Top Heroes Discord community\n\nEnjoy an additional 5% bonus on your recharge via\nOfficial Gold Blocks Website",
+      "visible_text": "🧟 If Zombies Were Coming…\n\nImagine the zombie apocalypse suddenly ... See more",
       "published_label": null,
       "post_url": null,
       "expanded": true,
@@ -35,7 +45,5 @@
       "warnings": []
     }
   ],
-  "warnings": [
-    "fewer_than_two_latest_posts_found"
-  ]
+  "warnings": []
 }
