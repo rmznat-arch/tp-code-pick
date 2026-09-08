@@ -8,11 +8,11 @@
       "height": 932
     }
   },
-  "fetchedAt": "2026-09-08T02:15:39.272415Z",
+  "fetchedAt": "2026-09-08T05:00:44.198333Z",
   "fetchedAtTimezone": "UTC",
-  "runStartedAt": "2026-09-08T02:15:25.704675Z",
-  "fetchedAtBangkok": "2026-09-08T09:15:39+07:00",
-  "runStatus": "partial",
+  "runStartedAt": "2026-09-08T05:00:33.341560Z",
+  "fetchedAtBangkok": "2026-09-08T12:00:44+07:00",
+  "runStatus": "success",
   "posts": [
     {
       "type": "pinned",
@@ -33,9 +33,17 @@
       "expanded": true,
       "status": "complete",
       "warnings": []
+    },
+    {
+      "type": "latest",
+      "text": "🎬 IF YOUR LIFE WERE A MOVIE, WHAT GENRE\nWOULD YOU CHOOSE?\n\nEveryone has their own story. If you could choose the\ngenre of your life, what would it be? 👀 💗 Romance,\n🕵️ Mystery, 👻 Horror, or 🔥 Action?\n\n💬 How to Join\nComment your choice and why, along with:\n① In-game Name\n② Server ID\n\n🎁 Rewards\n10 lucky Lords will each receive US$4.99 worth of\nGold Blocks!\n\n📅 Event Time: September 5–12\n🎁 Rewards Sent: Starting September 14\n\n✨ Life only happens once, but you get to choose\nyour own story.\n=================\nWelcome to the Top Heroes Discord community\n\nEnjoy an additional 5% bonus on your recharge via\nOfficial Gold Blocks Website",
+      "visible_text": "🎬 IF YOUR LIFE WERE A MOVIE, WHAT GENRE\nWOULD YOU CHOOSE?\n... See more",
+      "published_label": null,
+      "post_url": null,
+      "expanded": true,
+      "status": "complete",
+      "warnings": []
     }
   ],
-  "warnings": [
-    "fewer_than_two_latest_posts_found"
-  ]
+  "warnings": []
 }
