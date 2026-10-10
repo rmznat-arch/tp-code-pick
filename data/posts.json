@@ -8,11 +8,11 @@
       "height": 932
     }
   },
-  "fetchedAt": "2026-10-10T17:00:49.710643Z",
+  "fetchedAt": "2026-10-10T17:15:30.040948Z",
   "fetchedAtTimezone": "UTC",
-  "runStartedAt": "2026-10-10T17:00:37.705204Z",
-  "fetchedAtBangkok": "2026-10-11T00:00:49+07:00",
-  "runStatus": "partial",
+  "runStartedAt": "2026-10-10T17:15:24.208404Z",
+  "fetchedAtBangkok": "2026-10-11T00:15:30+07:00",
+  "runStatus": "success",
   "posts": [
     {
       "type": "pinned",
@@ -23,9 +23,27 @@
       "expanded": true,
       "status": "complete",
       "warnings": []
+    },
+    {
+      "type": "latest",
+      "text": "Decorate Your World with DreamWorks How To Train\nYour Dragon!\nClassic characters as decorations for your magical\njourney!\n\nAstrid, Stormfly, Barf and Belch Statue, Stoick, Valka,\nand Dart Statue—exclusive collaboration decorations\nare now available!\n\nParticipate in exciting in-game events and bring\nthese legendary characters to your base! \n\n✅Event Start Date: October 12th, 2026 \n✅Opening Server: 10001-10932",
+      "visible_text": "Decorate Your World with DreamWorks How To Train\nYour Dragon!\nClassic characters as decorations for your... See more",
+      "published_label": null,
+      "post_url": null,
+      "expanded": true,
+      "status": "complete",
+      "warnings": []
+    },
+    {
+      "type": "latest",
+      "text": "Flying Training: Push your limits and become the\nultimate dragon rider!\n\nThe thrilling DreamWorks How to Train Your Dragon\nflying event, Flying Training, is about to take off!\nTransform into a fearless Viking, ride your loyal\ndragon companion, and conquer challenging levels to\nwin incredible rewards!\n\n✅Event Start Date: October 12th, 2026 \n✅Opening Server: 10001-10932",
+      "visible_text": "Flying Training: Push your limits and become the\nultimate dragon rider!\n... See more",
+      "published_label": null,
+      "post_url": null,
+      "expanded": true,
+      "status": "complete",
+      "warnings": []
     }
   ],
-  "warnings": [
-    "fewer_than_two_latest_posts_found"
-  ]
+  "warnings": []
 }
