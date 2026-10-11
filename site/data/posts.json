@@ -8,11 +8,11 @@
       "height": 932
     }
   },
-  "fetchedAt": "2026-10-11T02:00:46.624627Z",
+  "fetchedAt": "2026-10-11T02:15:44.207494Z",
   "fetchedAtTimezone": "UTC",
-  "runStartedAt": "2026-10-11T02:00:40.457633Z",
-  "fetchedAtBangkok": "2026-10-11T09:00:46+07:00",
-  "runStatus": "success",
+  "runStartedAt": "2026-10-11T02:15:31.992034Z",
+  "fetchedAtBangkok": "2026-10-11T09:15:44+07:00",
+  "runStatus": "partial",
   "posts": [
     {
       "type": "pinned",
@@ -23,27 +23,9 @@
       "expanded": true,
       "status": "complete",
       "warnings": []
-    },
-    {
-      "type": "latest",
-      "text": "Legends meet again! DreamWorks How to Train Your\nDragon skins are coming soon!\n\nNew hero skins are here! Stoick the Vast takes on the\nrole of the Monk, uniting dragons and Vikings to\ndefend their homeland! Stoick, embodying\nunmatched bravery and wisdom, is brought to life\nstraight from the beloved DreamWorks How to Train\nYour Dragon universe. Unlock his exclusive skin now! \n\nUpgrade the skin to unlock stunning visual\ntransformations—Stoick will ride into battle atop\nSkullcrusher, his steadfast and powerful Rumblehorn\ncompanion! Witness this legendary duo charge\nfearlessly into the fray, their strength and unyielding\nbond inspiring all who follow. Don’t miss your chance\nto add this iconic partnership to your collection! \n\n✅ Event Start Date: October 12th, 2026 \n✅ Opening Server: 10001-10932",
-      "visible_text": "Legends meet again! DreamWorks How to Train Your\nDragon skins are coming soon!\n... See more",
-      "published_label": null,
-      "post_url": null,
-      "expanded": true,
-      "status": "complete",
-      "warnings": []
-    },
-    {
-      "type": "latest",
-      "text": "Decorate Your World with DreamWorks How To Train\nYour Dragon!\nClassic characters as decorations for your magical\njourney!\n\nAstrid, Stormfly, Barf and Belch Statue, Stoick, Valka,\nand Dart Statue—exclusive collaboration decorations\nare now available!\n\nParticipate in exciting in-game events and bring\nthese legendary characters to your base! \n\n✅Event Start Date: October 12th, 2026 \n✅Opening Server: 10001-10932",
-      "visible_text": "Decorate Your World with DreamWorks How To Train\nYour Dragon!\nClassic characters as decorations for your... See more",
-      "published_label": null,
-      "post_url": null,
-      "expanded": true,
-      "status": "complete",
-      "warnings": []
     }
   ],
-  "warnings": []
+  "warnings": [
+    "fewer_than_two_latest_posts_found"
+  ]
 }
