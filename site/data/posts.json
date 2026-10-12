@@ -8,36 +8,34 @@
       "height": 932
     }
   },
-  "fetchedAt": "2026-10-12T13:15:40.085871Z",
+  "fetchedAt": "2026-10-12T17:00:51.283840Z",
   "fetchedAtTimezone": "UTC",
-  "runStartedAt": "2026-10-12T13:15:28.700921Z",
-  "fetchedAtBangkok": "2026-10-12T20:15:40+07:00",
+  "runStartedAt": "2026-10-12T17:00:37.950883Z",
+  "fetchedAtBangkok": "2026-10-13T00:00:51+07:00",
   "runStatus": "partial",
   "posts": [
     {
       "type": "pinned",
-      "text": "Pinned post\nTop Heroes\n11h · \n🐉 The Official Website Collaboration Carnival Is Here! 🔥\n\n🎁 15 Days of Daily Gift Codes!\nUnlock a new gift code every day from October 12 to 26 and enjoy 15 days of exciting surprises!... See more\n582\n68\n10\nLisa \n Top fan\nGB803DF7896\nReply\n48",
-      "visible_text": "Pinned post\nTop Heroes\n11h · \n🐉 The Official Website Collaboration Carnival Is Here! 🔥\n\n🎁 15 Days of Daily Gift Codes!\nUnlock a new gift code every day from October 12 to 26 and enjoy 15 days of exciting surprises!... See more\n582\n68\n10\nLisa \n Top fan\nGB803DF7896\nReply\n48",
-      "published_label": "Aug 9",
+      "text": "🐉 The Official Website Collaboration Carnival Is\nHere! 🔥\n\n🎁 15 Days of Daily Gift Codes!\nUnlock a new gift code every day from October 12 to\n26 and enjoy 15 days of exciting surprises!\n\n1️⃣ GB803DF7896 (Valid until October 13, 2026)\n2️⃣ 🔒\n3️⃣ 🔒\n4️⃣ 🔒\n\nREDEEM HERE: \n\n📢 Friendly Reminder: Items obtained from this\nredemption code are exclusive to the collaboration\nevent and can only be used on servers 10001–10932.\n\n🎡 The Collaboration Lucky Wheel Is Here!\n🎟️ Use 2 Spin Tickets for 1 spin!\n🌸 Reach 100 spins to unlock the limited-edition\nMonk: Stoick Skin!\n\n🐲 Exclusive Collaboration Packs Are Here!\nNeed more [Collaboration Dice]? Head to the official\nwebsite to explore even more deals! ✨\n\n✨ Get your favorite Collaboration Skin Packs\nindividually, and enjoy massive discounts on\nPass-themed packs!\n\n⚔️ Monk: Stoick Skin\n🖤 Shadow Priest: Valka Skin\n🐉 Altar Marshal: Hiccup\n🌹 Rose Princess: Astrid\n\n🔥 Your Collaboration Adventure Starts Now!\nVisit the [Gold Block Website] today and claim your\nexclusive rewards! 🎁\n=================\nWelcome to the Top Heroes Discord community\n\nEnjoy an additional 5% bonus on your recharge via\nOfficial Gold Blocks Website",
+      "visible_text": "🐉 The Official Website Collaboration Carnival Is\nHere! 🔥\n... See more",
+      "published_label": null,
       "post_url": null,
-      "expanded": false,
-      "status": "partial",
+      "expanded": true,
+      "status": "complete",
       "warnings": []
     },
     {
       "type": "latest",
-      "text": "Top Heroes\n11h · \nTop Heroes × DreamWorks How to Train Your Dragon is officially live TODAY! 🐉✨ \n\nHow to Train Your Dragon × Top Heroes Collaboration Like Event is now live! 🔥 \n\n📅 Event Duration: October 12th –... See more\n8.2K\n656\n81\nTop Heroes\nFollow our Discord channel to never miss a single gift code during TH × HTTYD!\nReply\n23",
-      "visible_text": "Top Heroes\n11h · \nTop Heroes × DreamWorks How to Train Your Dragon is officially live TODAY! 🐉✨ \n\nHow to Train Your Dragon × Top Heroes Collaboration Like Event is now live! 🔥 \n\n📅 Event Duration: October 12th –... See more\n8.2K\n656\n81\nTop Heroes\nFollow our Discord channel to never miss a single gift code during TH × HTTYD!\nReply\n23",
-      "published_label": "11h",
+      "text": "Top Heroes × DreamWorks How to Train Your Dragon\nis officially live TODAY! 🐉✨ \n\nHow to Train Your Dragon × Top Heroes Collaboration\nLike Event is now live! 🔥 \n\n📅 Event Duration: October 12th – December 6th \n👍 10,000 Likes = Unlock the exclusive collaboration\ntitle!\n📈 Every additional 5,000 Likes = Unlock extra\nrewards! \n\nHit 👍 NOW! ✨🐲 \n\n⚠️ Event Rules \n📢 This is a Top Heroes* community interaction event\ndesigned to encourage communication among lords. \n📢 Total likes will be aggregated across all platforms.",
+      "visible_text": "Top Heroes × DreamWorks How to Train Your Dragon\nis officially live TODAY! 🐉✨ \n... See more",
+      "published_label": null,
       "post_url": null,
-      "expanded": false,
-      "status": "partial",
+      "expanded": true,
+      "status": "complete",
       "warnings": []
     }
   ],
   "warnings": [
-    "fewer_than_two_latest_posts_found",
-    "fewer_than_two_latest_posts_found",
-    "see_more_not_expanded"
+    "fewer_than_two_latest_posts_found"
   ]
 }
