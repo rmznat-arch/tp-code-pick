@@ -8,11 +8,11 @@
       "height": 932
     }
   },
-  "fetchedAt": "2026-11-14T08:15:53.593299Z",
+  "fetchedAt": "2026-11-14T11:00:46.847142Z",
   "fetchedAtTimezone": "UTC",
-  "runStartedAt": "2026-11-14T08:15:37.209390Z",
-  "fetchedAtBangkok": "2026-11-14T15:15:53+07:00",
-  "runStatus": "partial",
+  "runStartedAt": "2026-11-14T11:00:40.869863Z",
+  "fetchedAtBangkok": "2026-11-14T18:00:46+07:00",
+  "runStatus": "success",
   "posts": [
     {
       "type": "pinned",
@@ -26,8 +26,18 @@
     },
     {
       "type": "latest",
-      "text": "🌙 Today is the Soulmancer’s special day! 🔮\nThose deep blue eyes see through the mist, and that\nlow voice never reveals everything. Today, let’s send\nour birthday wishes to this calm and mysterious hero,\nand make this moment unforgettable! 🔮💙\n\nOf course, happy birthday to all Lords born in\nNovember! 🎂🥳\n\nMay your adventure always be guided by sparks of\nstarlight, may your journey be quiet and vast, and\nmay your name be whispered through legends again\nand again! ✨🏆\n=================\nWelcome to the Top Heroes Discord community\n\nEnjoy an additional 5% bonus on your recharge via\nOfficial Gold Blocks Website",
-      "visible_text": "🌙 Today is the Soulmancer’s special day! 🔮\nThose deep blue eyes see through the mist, and that\nlow voice never reveals everything. Today... See more",
+      "text": "𝗔𝗿𝗲 𝗬𝗼𝘂 𝗮 𝗖𝗵𝗮𝘁𝘁𝗲𝗿𝗯𝗼𝘅 𝗼𝗿 𝘁𝗵𝗲 𝗤𝘂𝗶𝗲𝘁 𝗧𝘆𝗽𝗲?\n\nLords, when chatting in-game, are you the one who\nkeeps the conversation going, or do you prefer to\nstay quiet?\n\n💬 Do you keep chatting and joking to make the chat\nlively?\nOr do you like watching quietly and only speaking\nwhen needed?\n\nTell us your chat style in the comments!\n=================\nWelcome to the Top Heroes Discord community\n\nEnjoy an additional 5% bonus on your recharge via\nOfficial Gold Blocks Website",
+      "visible_text": "𝗔𝗿𝗲 𝗬𝗼𝘂 𝗮 𝗖𝗵𝗮𝘁𝘁𝗲𝗿𝗯𝗼𝘅 𝗼𝗿 𝘁𝗵𝗲 𝗤𝘂𝗶𝗲𝘁 𝗧𝘆𝗽𝗲?\n\nLords, when chatting in-game, are you th... See more",
+      "published_label": null,
+      "post_url": null,
+      "expanded": true,
+      "status": "complete",
+      "warnings": []
+    },
+    {
+      "type": "latest",
+      "text": "🎉 𝗧𝗵𝗲 𝗣𝗮𝗿𝘁𝘆 𝗪𝗵𝗲𝗲𝗹 𝗶𝘀 𝗻𝗼𝘄 𝗹𝗶𝘃𝗲!\n\n🎟️ As always, 2 Wheel Tickets = 1 Lucky Wheel spin!\n🎶 Spin the Lucky Wheel for a chance to win\nSoundwave Discs, the exclusive draw item for the\nParty Carnival event. Collect Soundwave Discs, then\njoin the in-game event to win even more Surprise\nGifts! \n\n🏯 𝗦𝗽𝗶𝗻 𝟱𝟬𝟬 𝘁𝗶𝗺𝗲𝘀 𝗶𝗻 𝘁𝗼𝘁𝗮𝗹\nto get the Castle Shield Skin Choice Chest!\n♟️ 𝗦𝗽𝗶𝗻 𝟳𝟱𝟬 𝘁𝗶𝗺𝗲𝘀 𝗶𝗻 𝘁𝗼𝘁𝗮𝗹\nto get the limited Decor: Golden Armor General!\n♟️ 𝗦𝗽𝗶𝗻 𝟭,𝟬𝟬𝟬 𝘁𝗶𝗺𝗲𝘀 𝗶𝗻 𝘁𝗼𝘁𝗮𝗹\nto get the limited Decor: Jade Warlord!\n\n🎁 Exclusive Gift Code Has Arrived!\nGB6C87F7D5\nValid until: 11/19/2026\nREDEEM HERE: \n\n=================\nWelcome to the Top Heroes Discord community\n\nEnjoy an additional 5% bonus on your recharge via\nOfficial Gold Blocks Website",
+      "visible_text": "🎉 𝗧𝗵𝗲 𝗣𝗮𝗿𝘁𝘆 𝗪𝗵𝗲𝗲𝗹 𝗶𝘀 𝗻𝗼𝘄 𝗹𝗶𝘃𝗲!\n\n🎟️ As always, 2 Wheel Tickets = 1 Lucky ... See more",
       "published_label": null,
       "post_url": null,
       "expanded": true,
@@ -35,7 +45,5 @@
       "warnings": []
     }
   ],
-  "warnings": [
-    "fewer_than_two_latest_posts_found"
-  ]
+  "warnings": []
 }
