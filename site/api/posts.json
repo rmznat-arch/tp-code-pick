@@ -8,11 +8,11 @@
       "height": 932
     }
   },
-  "fetchedAt": "2026-11-23T05:15:45.950924Z",
+  "fetchedAt": "2026-11-23T08:01:00.948255Z",
   "fetchedAtTimezone": "UTC",
-  "runStartedAt": "2026-11-23T05:15:39.234873Z",
-  "fetchedAtBangkok": "2026-11-23T12:15:45+07:00",
-  "runStatus": "success",
+  "runStartedAt": "2026-11-23T08:00:47.040825Z",
+  "fetchedAtBangkok": "2026-11-23T15:01:00+07:00",
+  "runStatus": "partial",
   "posts": [
     {
       "type": "pinned",
@@ -33,17 +33,9 @@
       "expanded": true,
       "status": "complete",
       "warnings": []
-    },
-    {
-      "type": "latest",
-      "text": "🎯 𝗦𝗼𝘂𝗹 𝗤𝘂𝗲𝘀𝘁𝗶𝗼𝗻! 𝗨𝗹𝘁𝗶𝗺𝗮𝘁𝗲 𝟭-𝗼𝗳-𝟴 𝗖𝗵𝗼𝗶𝗰𝗲\n\n🎁 Your Special Wishlist Is Here!\nLords, what do you want today? Pick your favorite!\nIf you could prepare one special gift for your\nadventure, what would you want most? 🤩\nNow, 8 unlimited items are in front of you! Each one is\ntempting, and each one feels worth choosing.\n\nBut this wishlist has one small rule:\nYou can only choose one! You can’t take them all 😂\n✨ Resources, growth, or power boost? Pick the item\nyou want most!\n\n📅 Event Time: November 21 - November 27\n🏆 Winner Announcement: November 30\n\n💬 𝗛𝗼𝘄 𝘁𝗼 𝗝𝗼𝗶𝗻\nChoose one item from the 8 items in the image and\nleave a comment with:\n📝 Chosen Item:\n📝 Server Number:\n📝 In-game Name:\n\n🎁 𝗧𝗵𝗮𝗻𝗸𝘀𝗴𝗶𝘃𝗶𝗻𝗴 𝗦𝗽𝗲𝗰𝗶𝗮𝗹 𝗥𝗲𝘄𝗮𝗿𝗱\nWe will randomly select 10 lucky Lords. Each winner\nwill receive:\n[Daily Special Activation Voucher] × 6\n\n💛 Thank you for being with us and supporting us\nalong the way! We hope this small gift brings more\nsurprises to your adventure.\nSo, which item would you add to your wishlist?\n=================\nWelcome to the Top Heroes Discord community\n\nEnjoy an additional 5% bonus on your recharge via\nthe Official Gold Blocks Website",
-      "visible_text": "🎯 𝗦𝗼𝘂𝗹 𝗤𝘂𝗲𝘀𝘁𝗶𝗼𝗻! 𝗨𝗹𝘁𝗶𝗺𝗮𝘁𝗲 𝟭-𝗼𝗳-𝟴 𝗖𝗵𝗼𝗶𝗰𝗲\n\n🎁 Your Special Wishlist Is Here!... See more",
-      "published_label": null,
-      "post_url": null,
-      "expanded": true,
-      "status": "complete",
-      "warnings": []
     }
   ],
-  "warnings": []
+  "warnings": [
+    "fewer_than_two_latest_posts_found"
+  ]
 }
